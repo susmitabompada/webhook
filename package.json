@@ -1,0 +1,8 @@
+{
+  "name": "azure-script",
+  "version": "1.0.0",
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js"
+  }
+}
